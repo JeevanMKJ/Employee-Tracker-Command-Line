@@ -1,0 +1,17 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "A command-line application to manage employees using MySQL",
+  "main": "index.js",
+  "dependencies": {
+    "mysql2": "^2.3.0",
+    "inquirer": "^8.1.2",
+    "console.table": "^0.10.0",
+    "express": "^4.17.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jeevan Morgan Kress-Jones",
+  "license": "ISC"
+}
